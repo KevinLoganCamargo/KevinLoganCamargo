@@ -2,6 +2,7 @@
   <a href="https://github.com/KevinLoganCamargo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KevinLoganCamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLoganCamargo&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Logan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/30/0d/20/300d2037298c89e407d54c86bfe1e917.jpg?width=676&height=676">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="logan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
